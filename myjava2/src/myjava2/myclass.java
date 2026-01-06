@@ -36,6 +36,6 @@ public class myclass
 	public static void main(String args[])
 	{
 //		A o = new A(12);
-		B obj = new B(-9,-8);
+		B obj = new B(12,23);
 	}	
 }
